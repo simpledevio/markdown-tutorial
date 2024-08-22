@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Try typing each of the examples below into `practice.md`.
+Try typing each of the examples below into `practice.md`. Don't forget to open up the Markdown Preview. Press Cmd+Shift+P on macOS and Ctrl+Shift+P on Windows to open up the Command Palette and then search for `Markdown: Open Preview`.
 
 ## Headings
 
